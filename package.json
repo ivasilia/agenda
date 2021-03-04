@@ -1,0 +1,21 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "description": "A simple calendar script with a select-different-calendars option.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivasilia/agenda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivasilia/agenda/issues"
+  },
+  "homepage": "https://github.com/ivasilia/agenda#readme"
+}
